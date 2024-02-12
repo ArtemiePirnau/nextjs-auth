@@ -18,7 +18,7 @@ function UserCard({ user, pagetype }: Props) {
 
   const userImage = user?.image ? (
     <Image
-      className="border-4 border-black dark:border-slate-500 drop-shadow-xl shadow-black rounded-full mx-auto mt-8"
+      className="border-4 border-black dark:border-slate-500 drop-shadow-xl mb-4 shadow-black rounded-full mx-auto mt-8"
       src={user?.image}
       width={200}
       height={200}
@@ -29,9 +29,9 @@ function UserCard({ user, pagetype }: Props) {
 
   return (
     <section>
-      {greeting}
+      <div className="text-center text-4xl">{greeting}</div>
       {userImage}
-      <p>{pagetype} Page!</p>
+      <p className="text-center">{pagetype} Page!</p>
     </section>
   );
 }
