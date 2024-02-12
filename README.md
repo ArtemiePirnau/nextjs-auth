@@ -1,6 +1,6 @@
 ## Authentication with Nextjs (NextAuth)
 
-I made an application where you can only register with your Github account using NextAuth
+I made an application where you can only register with your Github account using NextAuth, and it shows your profile icon and your name
 
 I didn't add any design, and it's not adaptive, I focused more on Nextjs
 
