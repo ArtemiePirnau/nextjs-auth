@@ -14,3 +14,5 @@ I didn't add any design, and it's not adaptive, I focused more on Nextjs
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
 
 <br/>
+
+![image](https://github.com/ArtemiePirnau/nextjs-auth/assets/92051961/5b7c9bfa-7c4c-4541-80f5-881fa728c8ba)
