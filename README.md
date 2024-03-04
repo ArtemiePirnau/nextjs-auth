@@ -15,4 +15,4 @@ I didn't add any design, and it's not adaptive, I focused more on Nextjs
 
 <br/>
 
-![image](https://github.com/ArtemiePirnau/nextjs-auth/assets/92051961/5b7c9bfa-7c4c-4541-80f5-881fa728c8ba)
+![image](https://github.com/ArtemiePirnau/nextjs-auth/assets/92051961/8130f3b4-b215-4ca8-a02c-b4a730b2078a)
